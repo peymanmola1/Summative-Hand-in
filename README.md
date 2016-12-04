@@ -51,3 +51,7 @@ This is a link to the code that I used to create the Recipe
 [Formative Work](https://github.com/peymanmola1/Formative/blob/master/README.md)
 
 ## Peer-learing Presentations
+[Continuation and Proximity](https://github.com/EmptyRave/EyeBombing/blob/master/%23%20Proximity%20and%20%20Continuation.md)
+[Typography]
+[Colours](https://github.com/Designingwithcolours/Designingwithcolours/blob/master/README.md)
+[CSS Tricks](https://github.com/eroberts28/CSSTricks)
