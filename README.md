@@ -40,9 +40,10 @@ The final poster is the Edward Snowden tweet which all I have done is just make 
 ![Flag 2] (https://github.com/peymanmola1/Summative-Hand-in/blob/master/Japan.jpg)
 ### Code On Your Plate
 * [Recipe](https://thimbleprojects.org/peymanmola/145052/)
-This is a link to the final product.
+* This is a link to the final product.
 * [Code](https://github.com/peymanmola1/Summative-Hand-in/blob/master/Recipe%20code)
-This is a link to the code that I used to create the Recipe
+* This is a link to the code that I used to create the Recipe
+
 ## Summative Presentation
 [Presentation](https://github.com/peymanmola1/Summative/blob/master/README.md)
 
