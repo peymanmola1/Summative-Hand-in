@@ -10,9 +10,10 @@
 * [Week 7](http://fourthfloor.raveweb.net/pmola/2016/12/04/code-in-your-plate/)
 * [Week 8]
 
-
 ## Projects
 ### Eye Bombing
+![Eye Bombing 1] (https://github.com/peymanmola1/Summative-Hand-in/blob/master/IMG_0001.jpg)
+![Eye Bombing 2] (https://github.com/peymanmola1/Summative-Hand-in/blob/master/IMG_0002.jpg)
 ### One Tweet
 ![Poster 1] (https://github.com/peymanmola1/Typography/blob/master/%40ed%20balls.jpg)
 
@@ -36,6 +37,7 @@ The final poster is the Edward Snowden tweet which all I have done is just make 
 
 ### Union Hack
 ![Flag 1] (https://github.com/peymanmola1/Summative-Hand-in/blob/master/Italy.jpg)
+![Flag 2] (https://github.com/peymanmola1/Summative-Hand-in/blob/master/Japan.jpg)
 ### Code On Your Plate
 [Recipe](https://thimbleprojects.org/peymanmola/145052/)
 
