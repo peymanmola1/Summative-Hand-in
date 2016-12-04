@@ -37,7 +37,15 @@ The final poster is the Edward Snowden tweet which all I have done is just make 
 
 ### Union Hack
 ![Flag 1] (https://github.com/peymanmola1/Summative-Hand-in/blob/master/Italy.jpg)
+
 ![Flag 2] (https://github.com/peymanmola1/Summative-Hand-in/blob/master/Japan.jpg)
+
+![Flag 3] (https://github.com/peymanmola1/Summative-Hand-in/blob/master/Untitled-1.jpg)
+
+![Flag 4] (https://github.com/peymanmola1/Summative-Hand-in/blob/master/Untitled-brazil.jpg)
+
+![Flag 5] (https://github.com/peymanmola1/Summative-Hand-in/blob/master/own.jpg)
+
 ### Code On Your Plate
 * [Recipe](https://thimbleprojects.org/peymanmola/145052/)
 This is a link to the final product.
