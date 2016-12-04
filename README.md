@@ -6,7 +6,7 @@
 * [Week 3](http://fourthfloor.raveweb.net/pmola/2016/12/04/union-hack/)
 * [Week 4](http://fourthfloor.raveweb.net/pmola/2016/11/29/formative-review/)
 * [Week 5](http://fourthfloor.raveweb.net/pmola/2016/11/13/presentation-review/)
-* [Week 6]
+* [Week 6](http://fourthfloor.raveweb.net/pmola/2016/12/04/thoughts-on-the-web-grain/)
 * [Week 7](http://fourthfloor.raveweb.net/pmola/2016/12/04/code-in-your-plate/)
 * [Week 8](http://fourthfloor.raveweb.net/pmola/2016/12/04/how-to-css/)
 
