@@ -1,9 +1,9 @@
 # Summative-Hand-in
 
 ## Blogs
-* [Week 1]
+* [Week 1](http://fourthfloor.raveweb.net/pmola/2016/11/29/eye-bombing/)
 * [Week 2](http://fourthfloor.raveweb.net/pmola/2016/11/29/one-tweet/)
-* [Week 3]
+* [Week 3](http://fourthfloor.raveweb.net/pmola/2016/12/04/union-hack/)
 * [Week 4](http://fourthfloor.raveweb.net/pmola/2016/11/29/formative-review/)
 * [Week 5](http://fourthfloor.raveweb.net/pmola/2016/11/13/presentation-review/)
 * [Week 6]
