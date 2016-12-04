@@ -8,7 +8,7 @@
 * [Week 5](http://fourthfloor.raveweb.net/pmola/2016/11/13/presentation-review/)
 * [Week 6]
 * [Week 7](http://fourthfloor.raveweb.net/pmola/2016/12/04/code-in-your-plate/)
-* [Week 8]
+* [Week 8](http://fourthfloor.raveweb.net/pmola/2016/12/04/how-to-css/)
 
 ## Projects
 ### Eye Bombing
