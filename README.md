@@ -40,7 +40,8 @@ The final poster is the Edward Snowden tweet which all I have done is just make 
 [Recipe](https://thimbleprojects.org/peymanmola/145052/)
 
 ## Summative Presentation
+[Presentation](https://github.com/peymanmola1/Summative/blob/master/README.md)
 
-## Formative Presentation
+## Formative
 
 ## Peer-learing Presentations
