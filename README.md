@@ -1,14 +1,14 @@
 # Summative-Hand-in
 
 ## Blogs
-*[Week 1]
-*[Week 2](http://fourthfloor.raveweb.net/pmola/2016/11/29/one-tweet/)
-*[Week 3]
-*[Week 4](http://fourthfloor.raveweb.net/pmola/2016/11/29/formative-review/)
-*[Week 5](http://fourthfloor.raveweb.net/pmola/2016/11/13/presentation-review/)
-*[Week 6]
-*[Week 7](http://fourthfloor.raveweb.net/pmola/2016/12/04/code-in-your-plate/)
-*[Week 8]
+* [Week 1]
+* [Week 2](http://fourthfloor.raveweb.net/pmola/2016/11/29/one-tweet/)
+* [Week 3]
+* [Week 4](http://fourthfloor.raveweb.net/pmola/2016/11/29/formative-review/)
+* [Week 5](http://fourthfloor.raveweb.net/pmola/2016/11/13/presentation-review/)
+* [Week 6]
+* [Week 7](http://fourthfloor.raveweb.net/pmola/2016/12/04/code-in-your-plate/)
+* [Week 8]
 
 
 ## Projects
