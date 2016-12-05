@@ -38,7 +38,7 @@ For the justice or just us tweet I have made it to resemble a scale balancing ju
 The final poster is the Edward Snowden tweet which all I have done is just make the words get bigger. The colours I choose are yellow and light blue this is because they are quite calming colours.
 
 ### Union Hack
-I really enjoyed the Union hack project as it was a bit challenging to change a flag, the flags that I choose was simple but some of the flags that I have redesigned are all based on what I think of when I think of the country, the Japan flag i had to do a little bit of research for. For my own flag I decided to pick colours which are based on the aura of people.
+I really enjoyed the Union hack project as it was a bit challenging to change a flag, the flags that I choose was simple but some of the flags that I have redesigned are all based on what I think of when I think of the country, the Japan flag i had to do a little bit of research for. For my own flag I decided to pick colours which are based on the aura of people, and the colours that I choose for my own flag I believe that I represents parts of myself.
 ![Flag 1] (https://github.com/peymanmola1/Summative-Hand-in/blob/master/Italy.jpg)
 
 ![Flag 2] (https://github.com/peymanmola1/Summative-Hand-in/blob/master/Japan.jpg)
