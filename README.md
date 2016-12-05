@@ -12,6 +12,7 @@
 
 ## Projects
 ### Eye Bombing
+This was the eye bombing project which I thought was very helpful in terms of thikning more creative and see things in places you dont expect.
 ![Eye Bombing 1] (https://github.com/peymanmola1/Summative-Hand-in/blob/master/IMG_0001.jpg)
 ![Eye Bombing 2] (https://github.com/peymanmola1/Summative-Hand-in/blob/master/IMG_0002.jpg)
 
@@ -37,6 +38,7 @@ For the justice or just us tweet I have made it to resemble a scale balancing ju
 The final poster is the Edward Snowden tweet which all I have done is just make the words get bigger. The colours I choose are yellow and light blue this is because they are quite calming colours.
 
 ### Union Hack
+I really enjoyed the Union hack project as it was a bit challenging to change a flag, the flags that I choose was simple but some of the flags that I have redesigned are all based on what I think of when I think of the country, the Japan flag i had to do a little bit of research for. For my own flag I decided to pick colours which are based on the aura of people.
 ![Flag 1] (https://github.com/peymanmola1/Summative-Hand-in/blob/master/Italy.jpg)
 
 ![Flag 2] (https://github.com/peymanmola1/Summative-Hand-in/blob/master/Japan.jpg)
@@ -48,6 +50,7 @@ The final poster is the Edward Snowden tweet which all I have done is just make 
 ![Flag 5] (https://github.com/peymanmola1/Summative-Hand-in/blob/master/own.jpg)
 
 ### Code On Your Plate
+For the code on the plate, I really enjoyed this project because I was able to learn how to use HTML and CSS which was quite challenging but was fun as I had to figure out what code was needed in order to create what I had in mind.
 * [Recipe](https://thimbleprojects.org/peymanmola/145052/)
 This is a link to the final product.
 * [Code](https://github.com/peymanmola1/code/blob/master/README.md)
